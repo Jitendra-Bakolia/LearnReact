@@ -1,0 +1,32 @@
+#Node modules
+node_modules/
+dist/
+#dbconnection
+server/config/config.json
+tu-server/config/config.json
+common-server/config/config.json
+.vscode
+#Package
+package-lock.json
+development.config.js
+stikkum-control.js
+test.config.js
+
+
+#folder
+build/
+# altairServer/logs/*
+# communicationServer/logs/*
+# tuServer/logs/*
+altair-server/dummy-alerts
+
+log/
+logs/
+altair-server/temporary
+common-server/temporary
+tu-server/temporary
+server/temporary
+communication-server/temporary
+uploads
+server/emaillog
+server/templates

@@ -1,0 +1,29 @@
+=========================================================================================================
+                                 Way to create react applications
+=========================================================================================================
+First : - >
+{
+    npx create-react-app my-app
+    cd my-app
+    npm start
+}   After Run :- http://localhost:3000/
+
+
+
+
+Second : ->
+Using vite : - >
+{
+
+    npm create vite@latest
+    -Give project name
+    -Select technologie name : 'Vue', 'Vanilla', 'React', 'Preact', 'Lit', 'Svelte', 'Solid', 'Qwik', 'Other'
+    -Select language : 'JS', 'TS'
+
+
+    After Done
+    
+    -cd ProjectName
+    -npm i
+    For run : npm run dev
+}  After Run :- http://localhost:5173/
